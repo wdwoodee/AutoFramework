@@ -4,7 +4,7 @@ public class kkk {
 	{
 		System.out.println("Welcome!");
 		System.out.println("Welcome!");
-		System.out.println("123456!");
+		System.out.println("sdgsdgsgsgsgsgsgsdgdsgdsgs!");
 	}
 } 
 
